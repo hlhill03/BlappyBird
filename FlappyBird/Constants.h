@@ -1,0 +1,6 @@
+#pragma once
+#define SCREEN_WIDTH 1000
+#define SCREEN_HEIGHT 1200
+#define SCROLL_SPEED 10
+#define GROUND_HEIGHT 50
+#define PIPE_SEPERATION 200
